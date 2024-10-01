@@ -86,7 +86,7 @@ ur.watch_video('Для чего девушкам парень программи
 ur.register('vasya_пупкин', 'lolkekcheburek', 13)
 ur.watch_video('Для чего девушкам парень программист?')
 ur.register('urban_pythonist', 'iScX4vIJClb9YQavjAgF', 25)
-#ur.watch_video('Для чего девушкам парень программист?')
+ur.watch_video('Для чего девушкам парень программист?')
 
 # Проверка входа в другой аккаунт
 ur.register('vasya_пупкин', 'F8098FM8fjm9jmi', 55)
